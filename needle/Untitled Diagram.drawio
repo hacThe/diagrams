@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T04:51:45.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="M0KLIvuRhKZNlzeltB9Y" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T10:06:29.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="tvdkAnksH3drftKp89Iy" version="22.0.8" type="github">
   <diagram name="Page-1" id="n_HIvOIY-yOdwVxuMgk5">
-    <mxGraphModel dx="3043" dy="1984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2732" dy="1675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -506,6 +506,12 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EPhasNwwK1uvcFlZaMYT-2" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Delete User From Workspace Data Flow&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- Delete user_workspace document&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- update default_workspace property&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1523" y="-304" width="374" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="EPhasNwwK1uvcFlZaMYT-3" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Invite Users to Workspace Data Flow&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;- check if there is a user&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- update default_workspace property&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1519" y="-106" width="374" height="152" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
