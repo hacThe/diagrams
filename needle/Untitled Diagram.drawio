@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T10:06:29.968Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="tvdkAnksH3drftKp89Iy" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T09:29:58.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="KIMUfED7kMpJ-XHnFt7W" version="22.1.0" type="github" pages="2">
   <diagram name="Page-1" id="n_HIvOIY-yOdwVxuMgk5">
-    <mxGraphModel dx="2732" dy="1675" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3382" dy="2384" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -507,11 +507,212 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EPhasNwwK1uvcFlZaMYT-2" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Delete User From Workspace Data Flow&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- Delete user_workspace document&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- update default_workspace property&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EPhasNwwK1uvcFlZaMYT-2" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Delete User From Workspace Data Flow&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- Delete user_workspace document&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- update default_workspace property&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1523" y="-304" width="374" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="EPhasNwwK1uvcFlZaMYT-3" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Invite Users to Workspace Data Flow&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;- check if there is a user&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- update default_workspace property&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EPhasNwwK1uvcFlZaMYT-3" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Invite Users to Workspace Data Flow&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;- check if there is a user&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- update default_workspace property&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1519" y="-106" width="374" height="152" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WLEt0m1730AgoC7C7JJL" name="Page-2">
+    <mxGraphModel dx="6056" dy="5724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-1" target="dvYu4Zz5KxNHVDJMJug9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-2" target="dvYu4Zz5KxNHVDJMJug9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-2" value="Filter email who are not in the workspace." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-3" target="dvYu4Zz5KxNHVDJMJug9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-3" target="dvYu4Zz5KxNHVDJMJug9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;user is existed&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="210" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-4" target="dvYu4Zz5KxNHVDJMJug9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-4" value="Input emails list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-5" value="Create an invitation document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-8" target="dvYu4Zz5KxNHVDJMJug9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-8" value="Create a workspace_user document" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-12" target="dvYu4Zz5KxNHVDJMJug9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-12" value="get user with given email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-13" target="dvYu4Zz5KxNHVDJMJug9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-13" value="get user&#39;s default_workspace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-14" target="dvYu4Zz5KxNHVDJMJug9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-14" target="dvYu4Zz5KxNHVDJMJug9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;default_workspace&lt;br&gt;&amp;nbsp;is existed&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="560" width="85" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-15" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-16" value="Update default_workspace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="dvYu4Zz5KxNHVDJMJug9-30" target="dvYu4Zz5KxNHVDJMJug9-37" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-30" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-32" value="Choose an invitation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.306;exitY=0.83;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="dvYu4Zz5KxNHVDJMJug9-51" target="dvYu4Zz5KxNHVDJMJug9-40" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="dvYu4Zz5KxNHVDJMJug9-37" target="dvYu4Zz5KxNHVDJMJug9-32" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-37" value="get invitations list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-40" target="dvYu4Zz5KxNHVDJMJug9-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-40" value="Create a workspace_user document with selected workspace_id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="220" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="dvYu4Zz5KxNHVDJMJug9-44" target="dvYu4Zz5KxNHVDJMJug9-48" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="617.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-44" value="Delete all invitation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-48" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="810" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-51" target="dvYu4Zz5KxNHVDJMJug9-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-51" value="Accept" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="115" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-52" target="dvYu4Zz5KxNHVDJMJug9-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-52" value="Create a new workspace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-53" target="dvYu4Zz5KxNHVDJMJug9-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-53" value="Update user&#39;s default workspace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.33;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-32" target="dvYu4Zz5KxNHVDJMJug9-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-59" target="dvYu4Zz5KxNHVDJMJug9-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="320" />
+              <mxPoint x="850" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-59" value="Create a workspace_user document with new workspace_id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="dvYu4Zz5KxNHVDJMJug9-63" target="dvYu4Zz5KxNHVDJMJug9-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-63" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="-190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="dvYu4Zz5KxNHVDJMJug9-67" target="dvYu4Zz5KxNHVDJMJug9-82" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-67" value="get user_profile, invitations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-82" target="dvYu4Zz5KxNHVDJMJug9-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-82" value="userProfile.default_workspace&lt;br&gt;&amp;nbsp;is existed?" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="40" width="90" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-84" value="get workspace_settings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-85" target="dvYu4Zz5KxNHVDJMJug9-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-85" value="workspace_settings.result_ready is true" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="250" width="90" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-86" value="Navigate to result page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1284" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-88" value="Navigate to connector flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-89" value="Navigate to select workspace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-90" target="dvYu4Zz5KxNHVDJMJug9-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-90" value="invitations.length &amp;gt;0" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1485" y="40" width="90" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-82" target="dvYu4Zz5KxNHVDJMJug9-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.559;entryY=0.295;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-84" target="dvYu4Zz5KxNHVDJMJug9-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dvYu4Zz5KxNHVDJMJug9-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dvYu4Zz5KxNHVDJMJug9-85" target="dvYu4Zz5KxNHVDJMJug9-86">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
